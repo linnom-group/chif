@@ -1,0 +1,13 @@
+body{
+    color: #6a6969 !important;
+    font-size: 15px !important;
+}
+.banner.style--five {
+    padding: 0px 0 60px !important;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: #232d5e;
+}
+.btn{
+    border-radius: 50px;
+}
